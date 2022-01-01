@@ -1,0 +1,7 @@
+.background{
+    background-color: #C7CBCE;
+};
+.container {
+ display: flex;
+ align-items: stretch;
+}
